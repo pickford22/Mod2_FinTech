@@ -2,13 +2,20 @@
 
 using Python to make loan criteria data searchable and savable to csv file
 
-# technolgies
+# Technolgies
 
 loan qualifier CLI that will prompt the user to save the results as a CSV file
 
-# install
+# Install
 
 from github repository download files 
 
-# usage
+# Usage
 
+# Contributors
+
+Ben Pickord
+
+# Liscence
+
+MIT
